@@ -1,0 +1,19 @@
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.blue-text {
+  color: var(--blue);
+}
+
+.gap-16 {
+  gap: 16px;
+}
+
+.gap-24 {
+  gap: 24px;
+}
